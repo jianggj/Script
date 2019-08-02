@@ -1,0 +1,18 @@
+Num,Time,File,Line,Function
+1,`2017/01/12 03:10:26.120957,source3/smbd/sesssetup.c,554,setup_new_vc_session
+7,`2017/01/12 03:10:26.124879,source3/auth/auth.c,305,auth_check_ntlm_password
+13,`2017/01/12 03:10:26.129167,source3/smbd/service.c,862,make_connection_snum
+17,`2017/01/12 03:10:26.129397,source3/smbd/service.c,1138,close_cnum
+55009,`2017/01/12 13:02:35.464892,source3/smbd/process.c,1879,process_smb
+55011,`2017/01/12 13:02:35.464917,source3/smbd/process.c,1489,switch_message
+55013,`2017/01/12 13:02:35.465437,source3/smbd/negprot.c,576,reply_negprot
+55025,`2017/01/12 13:02:35.465659,source3/smbd/negprot.c,377,reply_nt1
+55027,`2017/01/12 13:02:35.465669,source3/smbd/negprot.c,684,reply_negprot
+55073,`2017/01/12 13:02:35.473001,source3/smbd/sesssetup.c,614,reply_sesssetup_and_X
+55075,`2017/01/12 13:02:35.473018,source3/smbd/sesssetup.c,828,reply_sesssetup_and_X
+55079,`2017/01/12 13:02:35.473035,source3/smbd/sesssetup.c,844,reply_sesssetup_and_X
+55081,`2017/01/12 13:02:35.473106,source3/param/loadparm.c,3726,lp_load_ex
+55083,`2017/01/12 13:02:35.473157,source3/param/loadparm.c,544,init_globals
+55085,`2017/01/12 13:02:35.473246,source3/param/loadparm.c,2669,lp_do_section
+145771,`2017/01/12 17:11:43.068326,source3/auth/auth.c,315,auth_check_ntlm_password
+146083,`2017/01/12 17:12:58.207604,source3/smbd/process.c,2779,deadtime_fn

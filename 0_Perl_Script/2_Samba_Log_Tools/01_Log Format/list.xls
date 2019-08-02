@@ -1,0 +1,5 @@
+samba-4.2.10/source3/winbindd/winbindd_cache.c:3120(wcache_invalidate_samlogon)	wcache_invalidate_samlogon: clearing %s\n
+samba-4.2.10/source3/winbindd/winbindd_cache.c:3125(wcache_invalidate_samlogon)	wcache_invalidate_samlogon: clearing %s\n
+samba-4.2.10/source3/winbindd/winbindd_pam.c:2019(winbind_dual_SamLogon)	NTLM CRAP authentication for user [%s]\\[%s] returned %s\n
+samba-4.2.10/source3/smbd/oplock_linux.c:251(*linux_init_kernel_oplocks)	Linux kernel oplocks enabled\n
+samba-4.2.10/source3/smbd/reply.c:1027(reply_tcon_and_X)	tconX service=%s \n
